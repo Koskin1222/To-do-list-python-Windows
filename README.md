@@ -1,3 +1,14 @@
+# Install the packaging tool
+pip install pyinstaller
+# Install script dependencies (tkcalendar is a third-party library and must be installed separately)
+pip install tkcalendar
+
+# 安装打包工具
+pip install pyinstaller
+# 安装脚本依赖（tkcalendar是第三方库，必须单独安装）
+pip install tkcalendar
+
+
 # To-do-list-python-Windows
 A lightweight task management tool built with Python Tkinter, designed for simple and efficient to-do list management.
 # Lightweight Task Management Tool
