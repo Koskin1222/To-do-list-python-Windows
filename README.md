@@ -1,5 +1,7 @@
 # To-do-list-python-Windows  
 A lightweight task management tool built with Python Tkinter, designed for simple and efficient to-do list management on Windows.  
+<img width="525" height="1293" alt="ScreenShot_2025-10-18_000623_913" src="https://github.com/user-attachments/assets/0fe93dd3-54f4-40be-9b0e-dcd3a49b6bd1" />
+<img width="1596" height="1287" alt="ScreenShot_2025-10-18_000548_574" src="https://github.com/user-attachments/assets/97011005-253b-40b5-87e5-59f79870bc1e" />
 
 
 ## Installation  
